@@ -33,7 +33,7 @@
     "next": "^12.1.6",
     "next-themes": "0.2.0",
     "nextjs-progressbar": "0.0.14",
-    "npm": "^8.13.1",
+    "npm": "^10.2.0",
     "react": "^18.2.0",
     "react-chrono": "^1.17.1",
     "react-component-export-image": "^1.0.6",
