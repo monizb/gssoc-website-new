@@ -21,7 +21,7 @@
     "@headlessui/react": "^1.6.5",
     "aos": "^2.3.4",
     "axios": "^0.27.2",
-    "ethers": "^5.6.9",
+    "ethers": "^6.0.0",
     "file-saver": "^2.0.5",
     "framer-motion": "^6.3.15",
     "global": "^4.4.0",
