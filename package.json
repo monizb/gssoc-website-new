@@ -29,7 +29,7 @@
     "html2canvas": "^1.4.1",
     "keccak256": "^1.0.6",
     "keen-slider": "^6.7.0",
-    "merkletreejs": "^0.2.32",
+    "merkletreejs": "^0.4.1",
     "next": "^12.1.6",
     "next-themes": "0.2.0",
     "nextjs-progressbar": "0.0.14",
